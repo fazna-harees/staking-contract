@@ -5,3 +5,5 @@ This project is a simple staking contract, which allows you to stake NFT's and r
 This project contains:
 - ERC1155 Token Contract (MoodSwingTokens)
 - Staking Contract
+
+## ERC1155
